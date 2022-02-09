@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-gameplay_loop-5203.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\gameplay_loop.cpp.obj"
+"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\gameplay_loopGameModeBase.cpp.obj"
+"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\gameplay_loop.init.gen.cpp.obj"
+"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\gameplay_loopGameModeBase.gen.cpp.obj"
+"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\Default.rc2.res"
+/OUT:"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\UE4Editor-gameplay_loop-5203.lib"
+/INCLUDE:IMPLEMENT_MODULE_gameplay_loop
