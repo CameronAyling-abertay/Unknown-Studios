@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Inc\gameplay_loop
-/I C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Source
+/I M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Inc\gameplay_loop
+/I M:\GitHub\Unknown-Studios\gameplay_loop\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -255,18 +255,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Source\gameplay_loop\gameplay_loop.cpp"
-/FI"C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\Definitions.gameplay_loop.h"
-/Fo"C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\gameplay_loop.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"M:\GitHub\Unknown-Studios\gameplay_loop\Source\gameplay_loop\gameplay_loop.cpp"
+/FI"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\Definitions.gameplay_loop.h"
+/Fo"M:\GitHub\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\gameplay_loop.cpp.obj"
 /TP
 /GR-
 /W4
