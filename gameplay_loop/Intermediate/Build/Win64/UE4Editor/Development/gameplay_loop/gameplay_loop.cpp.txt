@@ -1,0 +1,2 @@
+C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\Definitions.gameplay_loop.h
+C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Source\gameplay_loop\gameplay_loop.h
