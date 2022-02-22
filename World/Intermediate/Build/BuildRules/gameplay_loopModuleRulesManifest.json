@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"M:\\GitHub\\Unknown-Studios\\gameplay_loop\\Source\\gameplay_loop\\gameplay_loop.Build.cs",
+		"M:\\GitHub\\Unknown-Studios\\gameplay_loop\\Source\\gameplay_loop.Target.cs",
+		"M:\\GitHub\\Unknown-Studios\\gameplay_loop\\Source\\gameplay_loopEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
