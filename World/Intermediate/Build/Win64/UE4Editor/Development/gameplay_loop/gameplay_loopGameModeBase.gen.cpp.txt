@@ -1,9 +1,0 @@
-C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Development\gameplay_loop\Definitions.gameplay_loop.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Source\gameplay_loop/gameplay_loopGameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\komod\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\UE4Editor\Inc\gameplay_loop\gameplay_loopGameModeBase.generated.h
