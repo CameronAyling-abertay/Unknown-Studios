@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\gameplay_loop.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{32C7B6C6-EE78-451D-8C81-1A093E955CCB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gameplay_loop.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\gameplay_loopEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{058CE2AB-6AA6-418F-8E65-EDA7BDB5627C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\gameplay_loop">
+      <UniqueIdentifier>{6D2B72CC-D374-453F-8AFC-1A8BA9491607}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gameplay_loop\gameplay_loop.Build.cs">
+      <Filter>Source\gameplay_loop</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\gameplay_loop\gameplay_loop.cpp">
+      <Filter>Source\gameplay_loop</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gameplay_loop\gameplay_loop.h">
+      <Filter>Source\gameplay_loop</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gameplay_loop\gameplay_loopGameModeBase.cpp">
+      <Filter>Source\gameplay_loop</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gameplay_loop\gameplay_loopGameModeBase.h">
+      <Filter>Source\gameplay_loop</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

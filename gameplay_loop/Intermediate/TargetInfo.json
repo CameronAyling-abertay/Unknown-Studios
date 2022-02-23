@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gameplay_loop",
+			"Path": "C:\\Users\\komod\\Documents\\Abertay\\Unknown-Studios\\gameplay_loop\\Source\\gameplay_loop.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gameplay_loopEditor",
+			"Path": "C:\\Users\\komod\\Documents\\Abertay\\Unknown-Studios\\gameplay_loop\\Source\\gameplay_loopEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
