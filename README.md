@@ -1,7 +1,9 @@
 Install Instructions: 
 
-- Download the .exe file 
-- Run it
+- Download the Wolf In Sheep's Clothing zip file
+- Extract the file
+- Open the file and go into the WindowsNoEditor file
+- Run the executable labeled "gameplay_loop.exe"
 
 
 Game Concept Rundown (Synopsis):
@@ -25,3 +27,22 @@ Accusation (K)
 Open Notepad (N) 
 Close Notepad (click bottom right "return" button) 
 Exit the Game (Esc)
+
+
+Known Bugs:
+
+- Action point timer starts higher than it should
+- The player can appear in front of other entities sometimes
+- The mouse can remain on screen after or disappear during choices
+- Geometry is visible through the barn walls (rendering issue)
+
+
+Known Issues:
+
+- Framerate issues (not true to the concept)
+- There are some characters mentioned who do not appear
+- Controls are not well communicated (working on tutorial level)
+- Menus appear and disappear very suddenly
+- Hitbox issues
+- Shadow resolutions perceptibly change
+- The world is too large - in process of making it smaller
