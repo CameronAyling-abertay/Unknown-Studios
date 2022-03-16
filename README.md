@@ -45,4 +45,4 @@ Known Issues:
 - Menus appear and disappear very suddenly
 - Hitbox issues
 - Shadow resolutions perceptibly change
-- The world is too large - in process of making it smaller
+- The world is too large - in process of making it smaller :)
