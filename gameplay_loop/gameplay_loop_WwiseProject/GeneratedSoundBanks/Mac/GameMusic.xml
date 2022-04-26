@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="753561291">
+			<ObjectPath>\SoundBanks\Default Work Unit\GameMusic</ObjectPath>
+			<ShortName>GameMusic</ShortName>
+			<Path>GameMusic.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Music" GUID="{B29EAEEB-68A9-4683-A586-1ECCB3F03C1D}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="713675144" Language="SFX">
+							<ShortName>country music loop.wav.wav</ShortName>
+							<Path>SFX\country music loop.wav_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1042729092" Language="SFX">
+							<ShortName>country music loop - menu var-.wav.wav</ShortName>
+							<Path>SFX\country music loop - menu var-.wav_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{E788DDD8-CEA2-4693-A55B-D1825D983893}">
+							<Media>
+								<File Id="713675144"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E5C30692-E55B-433C-9624-A2648CB32CD3}">
+							<Media>
+								<File Id="1042729092"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="Music" ObjectPath="\States\Default Work Unit\Music" GUID="{657A6E9A-8FAC-4373-8929-DC82B0EC2AA8}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Music\None" GUID="{22C6B31F-ADC7-428F-A68C-2D4E75EB4660}"/>
+						<State Id="2322231365" Name="Gameplay_Music" ObjectPath="\States\Default Work Unit\Music\Gameplay_Music" GUID="{E788DDD8-CEA2-4693-A55B-D1825D983893}"/>
+						<State Id="4055567060" Name="Menu_Music" ObjectPath="\States\Default Work Unit\Music\Menu_Music" GUID="{E5C30692-E55B-433C-9624-A2648CB32CD3}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

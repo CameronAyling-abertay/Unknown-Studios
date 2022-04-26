@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="ActionPoint_Spent" ID="{26258783-F522-496A-B681-D18F1057A1DA}">
+					<ChildrenList>
+						<Action Name="" ID="{C6251CC5-FBB4-4426-8E4A-18C13BFA472F}" ShortID="567328520">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Action Point ticking" ID="{9BF3A398-978D-47EF-92C8-B2FD2D3B4AE5}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambience" ID="{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}">
+					<ChildrenList>
+						<Action Name="" ID="{A7B94369-D951-4B51-AA7F-7558D51D9AE5}" ShortID="49778562">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambience" ID="{C9E5CB8D-2994-4A31-BC04-0546C4F233DB}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Morning_Transition" ID="{0F66132B-1A89-4AD8-8634-3321A99366E4}">
+					<ChildrenList>
+						<Action Name="" ID="{1487D044-A202-44C1-8EF7-E321D63A93EB}" ShortID="260267672">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Morning Transition" ID="{E2C6109E-4E8E-42B4-ABFE-54A08896B24B}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Night_Transition" ID="{1E9D2DF1-E7AD-4B7A-941B-1903D84C1307}">
+					<ChildrenList>
+						<Action Name="" ID="{5EAD5916-20BF-4357-A7CF-D732017D5F06}" ShortID="312108288">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Night Transition" ID="{9C7C7A80-E550-45B6-9D0B-009A7CB4F3A7}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_Inspect" ID="{87379236-A3DE-4897-B569-58C69F1520C6}">
+					<ChildrenList>
+						<Action Name="" ID="{5B039F62-947A-4169-83D3-AECDDA9B5553}" ShortID="855481081">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player Inspection" ID="{DF57B0A2-8884-4972-B4A9-9618CA618A45}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Sheep_Bleat" ID="{2FF26D14-AD7D-4F61-BD39-601049190BDB}">
+					<ChildrenList>
+						<Action Name="" ID="{6E4FB574-C2BA-4862-A102-14BE50B4A349}" ShortID="872960482">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Sheep Bleats" ID="{070A81D3-D045-41DD-82EC-8BD2FF516A5E}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="NoteBook_Open" ID="{2594B4DE-D64B-4BE2-8A4A-DC086525AD3D}">
+					<ChildrenList>
+						<Action Name="" ID="{178EEC2C-7860-443E-B44C-3E6D1D0910EA}" ShortID="595255309">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NoteBook Open" ID="{1FDEFD91-8A65-4795-9316-3131925209D9}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Notebook_Close" ID="{2414DE32-7712-4D52-9854-B8D38E1D3E32}">
+					<ChildrenList>
+						<Action Name="" ID="{E8143613-6A17-4B92-B575-CBFA784E48E1}" ShortID="895023941">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NoteBook Close" ID="{AD044DCB-5FAA-4CC4-9F8D-DA175FF1EBAB}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="NoteBook_PageTurn" ID="{3866C861-D012-49A9-8BB8-DE65F98E5C87}">
+					<ChildrenList>
+						<Action Name="" ID="{C8FD08F5-6B9F-4105-BC8C-3B6B84AA1F9C}" ShortID="487072617">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NoteBook Page Turn" ID="{36E2F2EC-C371-4493-8DA8-2EB15376AF41}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music" ID="{B29EAEEB-68A9-4683-A586-1ECCB3F03C1D}">
+					<ChildrenList>
+						<Action Name="" ID="{CF8E3A22-0EAF-4388-8081-C61B66867F68}" ShortID="819569746">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music" ID="{49624A1A-0F79-4EF1-AAE6-22696F526DE6}" WorkUnitID="{6FF51CC1-8C71-4054-8FF0-459523545E1F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Footstep" ID="{418EF010-5074-4CA2-9EE6-D509F2AD8BE0}">
+					<ChildrenList>
+						<Action Name="" ID="{639D3FE5-A1AA-4CD1-BAA2-3E260932A4AE}" ShortID="159635709">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Play_Footstep" ID="{65C85D74-7A71-41D0-8241-FA719D987DD6}" WorkUnitID="{DEBF584F-40BC-4D07-BD31-25F227B29DDE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="2259199446">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4274222242" Name="ActionPoint_Spent" ObjectPath="\Events\Default Work Unit\ActionPoint_Spent" GUID="{26258783-F522-496A-B681-D18F1057A1DA}" DurationType="OneShot" DurationMin="1.758503" DurationMax="1.758503">
+					<IncludedMemoryFiles>
+						<File Id="166928421" Language="SFX">
+							<ShortName>ticking.wav</ShortName>
+							<Path>SFX\ticking_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Ambience" GUID="{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}" DurationType="OneShot" DurationMin="36.000000" DurationMax="36.000000">
+					<IncludedMemoryFiles>
+						<File Id="816001997" Language="SFX">
+							<ShortName>Farm_Ambience.wav</ShortName>
+							<Path>SFX\Farm_Ambience_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1254780955" Name="Morning_Transition" ObjectPath="\Events\Default Work Unit\Morning_Transition" GUID="{0F66132B-1A89-4AD8-8634-3321A99366E4}" DurationType="OneShot" DurationMin="3.337574" DurationMax="3.337574">
+					<IncludedMemoryFiles>
+						<File Id="435565415" Language="SFX">
+							<ShortName>Morning transition.wav</ShortName>
+							<Path>SFX\Morning transition_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3191529017" Name="Night_Transition" ObjectPath="\Events\Default Work Unit\Night_Transition" GUID="{1E9D2DF1-E7AD-4B7A-941B-1903D84C1307}" DurationType="OneShot" DurationMin="4.500000" DurationMax="4.500000">
+					<IncludedMemoryFiles>
+						<File Id="613306039" Language="SFX">
+							<ShortName>Night Transition.wav</ShortName>
+							<Path>SFX\Night Transition_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2920643383" Name="Notebook_Close" ObjectPath="\Events\Default Work Unit\Notebook_Close" GUID="{2414DE32-7712-4D52-9854-B8D38E1D3E32}" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000">
+					<IncludedMemoryFiles>
+						<File Id="777090912" Language="SFX">
+							<ShortName>NotePad_close.wav</ShortName>
+							<Path>SFX\NotePad_close_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="417584769" Name="NoteBook_Open" ObjectPath="\Events\Default Work Unit\NoteBook_Open" GUID="{2594B4DE-D64B-4BE2-8A4A-DC086525AD3D}" DurationType="OneShot" DurationMin="1.000000" DurationMax="1.000000">
+					<IncludedMemoryFiles>
+						<File Id="485916639" Language="SFX">
+							<ShortName>NotePad_Open.wav</ShortName>
+							<Path>SFX\NotePad_Open_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="463748681" Name="NoteBook_PageTurn" ObjectPath="\Events\Default Work Unit\NoteBook_PageTurn" GUID="{3866C861-D012-49A9-8BB8-DE65F98E5C87}" DurationType="OneShot" DurationMin="0.793701" DurationMax="1.259921">
+					<IncludedMemoryFiles>
+						<File Id="1042503933" Language="SFX">
+							<ShortName>NotePad_PageTurn.wav</ShortName>
+							<Path>SFX\NotePad_PageTurn_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1602358412" Name="Play_Footstep" ObjectPath="\Events\Default Work Unit\Play_Footstep" GUID="{418EF010-5074-4CA2-9EE6-D509F2AD8BE0}" DurationType="OneShot" DurationMin="0.458502" DurationMax="0.545254">
+					<IncludedMemoryFiles>
+						<File Id="44776130" Language="SFX">
+							<ShortName>Footstep_Grass_2.wav</ShortName>
+							<Path>SFX\Footstep_Grass_2_10C4C929.wem</Path>
+						</File>
+						<File Id="131261679" Language="SFX">
+							<ShortName>Footstep_Gravel_2.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_2_10C4C929.wem</Path>
+						</File>
+						<File Id="153198828" Language="SFX">
+							<ShortName>Footstep_Grass_3.wav</ShortName>
+							<Path>SFX\Footstep_Grass_3_10C4C929.wem</Path>
+						</File>
+						<File Id="245009484" Language="SFX">
+							<ShortName>Footstep_Grass_8.wav</ShortName>
+							<Path>SFX\Footstep_Grass_8_10C4C929.wem</Path>
+						</File>
+						<File Id="463955417" Language="SFX">
+							<ShortName>Footstep_Gravel_1.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_1_10C4C929.wem</Path>
+						</File>
+						<File Id="549025861" Language="SFX">
+							<ShortName>Footstep_Grass_5.wav</ShortName>
+							<Path>SFX\Footstep_Grass_5_10C4C929.wem</Path>
+						</File>
+						<File Id="566440037" Language="SFX">
+							<ShortName>Footstep_Grass_7.wav</ShortName>
+							<Path>SFX\Footstep_Grass_7_10C4C929.wem</Path>
+						</File>
+						<File Id="573042789" Language="SFX">
+							<ShortName>Footstep_Grass_6.wav</ShortName>
+							<Path>SFX\Footstep_Grass_6_10C4C929.wem</Path>
+						</File>
+						<File Id="700504016" Language="SFX">
+							<ShortName>Footstep_Gravel_5.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_5_10C4C929.wem</Path>
+						</File>
+						<File Id="717087124" Language="SFX">
+							<ShortName>Footstep_Gravel_7.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_7_10C4C929.wem</Path>
+						</File>
+						<File Id="769950990" Language="SFX">
+							<ShortName>Footstep_Gravel_4.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_4_10C4C929.wem</Path>
+						</File>
+						<File Id="859699568" Language="SFX">
+							<ShortName>Footstep_Grass_4.wav</ShortName>
+							<Path>SFX\Footstep_Grass_4_10C4C929.wem</Path>
+						</File>
+						<File Id="903338530" Language="SFX">
+							<ShortName>Footstep_Gravel_6.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_6_10C4C929.wem</Path>
+						</File>
+						<File Id="990467315" Language="SFX">
+							<ShortName>Footstep_Gravel_3.wav</ShortName>
+							<Path>SFX\Footstep_Gravel_3_10C4C929.wem</Path>
+						</File>
+						<File Id="1039937479" Language="SFX">
+							<ShortName>Footstep_Grass_1.wav</ShortName>
+							<Path>SFX\Footstep_Grass_1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{1985EFE1-7F49-45B0-90D4-9224F952CBE9}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{1985EFE1-7F49-45B0-90D4-9224F952CBE9}">
+							<Media>
+								<File Id="131261679"/>
+								<File Id="463955417"/>
+								<File Id="700504016"/>
+								<File Id="717087124"/>
+								<File Id="769950990"/>
+								<File Id="903338530"/>
+								<File Id="990467315"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{A9462846-2BC5-4E11-8520-9F1F3E1F6B37}">
+							<Media>
+								<File Id="44776130"/>
+								<File Id="153198828"/>
+								<File Id="245009484"/>
+								<File Id="549025861"/>
+								<File Id="566440037"/>
+								<File Id="573042789"/>
+								<File Id="859699568"/>
+								<File Id="1039937479"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4199328015" Name="Player_Inspect" ObjectPath="\Events\Default Work Unit\Player_Inspect" GUID="{87379236-A3DE-4897-B569-58C69F1520C6}" DurationType="OneShot" DurationMin="0.917004" DurationMax="1.029302">
+					<IncludedMemoryFiles>
+						<File Id="229693853" Language="SFX">
+							<ShortName>Player_interact_3.wav</ShortName>
+							<Path>SFX\Player_interact_3_10C4C929.wem</Path>
+						</File>
+						<File Id="372541517" Language="SFX">
+							<ShortName>Player_interact_2.wav</ShortName>
+							<Path>SFX\Player_interact_2_10C4C929.wem</Path>
+						</File>
+						<File Id="523339144" Language="SFX">
+							<ShortName>Player_interact_1.wav</ShortName>
+							<Path>SFX\Player_interact_1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="977718567" Name="Sheep_Bleat" ObjectPath="\Events\Default Work Unit\Sheep_Bleat" GUID="{2FF26D14-AD7D-4F61-BD39-601049190BDB}" DurationType="OneShot" DurationMin="0.907234" DurationMax="1.941596">
+					<IncludedMemoryFiles>
+						<File Id="67585729" Language="SFX">
+							<ShortName>SheepBleat_Generic_1.wav</ShortName>
+							<Path>SFX\SheepBleat_Generic_1_10C4C929.wem</Path>
+						</File>
+						<File Id="763773164" Language="SFX">
+							<ShortName>SheepBleat_Generic_2.wav</ShortName>
+							<Path>SFX\SheepBleat_Generic_2_10C4C929.wem</Path>
+						</File>
+						<File Id="848808619" Language="SFX">
+							<ShortName>SheepBleat_Generic_3.wav</ShortName>
+							<Path>SFX\SheepBleat_Generic_3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="2385628198" Name="Footsteps" ObjectPath="\Switches\Default Work Unit\Footsteps" GUID="{F16EA009-33F8-4420-BAF8-BCC420CDB4D8}">
+					<Switches>
+						<Switch Id="2195636714" Name="Dirt" ObjectPath="\Switches\Default Work Unit\Footsteps\Dirt" GUID="{1985EFE1-7F49-45B0-90D4-9224F952CBE9}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Footsteps\Grass" GUID="{A9462846-2BC5-4E11-8520-9F1F3E1F6B37}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

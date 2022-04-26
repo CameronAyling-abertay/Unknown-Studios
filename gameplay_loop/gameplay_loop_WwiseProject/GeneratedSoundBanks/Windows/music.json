@@ -1,0 +1,95 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3991942870",
+    "GUID": "{585B9FEC-1924-4126-91CD-5C9C624C9784}",
+    "Language": "SFX",
+    "Hash": "946959132",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\music",
+    "ShortName": "music",
+    "Path": "music.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Events\\Default Work Unit\\Music",
+      "GUID": "{B29EAEEB-68A9-4683-A586-1ECCB3F03C1D}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "713675144",
+        "Language": "SFX",
+        "ShortName": "country music loop.wav.wav",
+        "Path": "SFX\\country music loop.wav_D79FB2B7.wem"
+       },
+       {
+        "Id": "1042729092",
+        "Language": "SFX",
+        "ShortName": "country music loop - menu var-.wav.wav",
+        "Path": "SFX\\country music loop - menu var-.wav_D79FB2B7.wem"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": "{E788DDD8-CEA2-4693-A55B-D1825D983893}",
+        "Media": [
+         {
+          "Id": "713675144"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{E5C30692-E55B-433C-9624-A2648CB32CD3}",
+        "Media": [
+         {
+          "Id": "1042729092"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\States\\Default Work Unit\\Music",
+      "GUID": "{657A6E9A-8FAC-4373-8929-DC82B0EC2AA8}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\None",
+        "GUID": "{4C77B6A0-D66F-41CF-BF05-3A0FE14628D0}"
+       },
+       {
+        "Id": "2322231365",
+        "Name": "Gameplay_Music",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\Gameplay_Music",
+        "GUID": "{E788DDD8-CEA2-4693-A55B-D1825D983893}"
+       },
+       {
+        "Id": "4055567060",
+        "Name": "Menu_Music",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\Menu_Music",
+        "GUID": "{E5C30692-E55B-433C-9624-A2648CB32CD3}"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

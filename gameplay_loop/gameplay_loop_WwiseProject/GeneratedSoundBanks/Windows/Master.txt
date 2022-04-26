@@ -1,0 +1,49 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+	417584769	NoteBook_Open			\Default Work Unit\NoteBook_Open	
+	463748681	NoteBook_PageTurn			\Default Work Unit\NoteBook_PageTurn	
+	977718567	Sheep_Bleat			\Default Work Unit\Sheep_Bleat	
+	1254780955	Morning_Transition			\Default Work Unit\Morning_Transition	
+	1602358412	Play_Footstep			\Default Work Unit\Play_Footstep	
+	2920643383	Notebook_Close			\Default Work Unit\Notebook_Close	
+	3191529017	Night_Transition			\Default Work Unit\Night_Transition	
+	4199328015	Player_Inspect			\Default Work Unit\Player_Inspect	
+	4274222242	ActionPoint_Spent			\Default Work Unit\ActionPoint_Spent	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+
+Switch	ID	Name	Switch Group			Notes
+	2195636714	Dirt	Footsteps			
+	4248645337	Grass	Footsteps			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	44776130	Footstep_Grass_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_2		88264
+	67585729	SheepBleat_Generic_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\SheepBleat_Generic_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_1		300820
+	131261679	Footstep_Gravel_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_2		88264
+	153198828	Footstep_Grass_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_3		88264
+	166928421	Action Point ticking	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\ticking_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Action Point ticking		310264
+	229693853	Player_interact_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Player_interact_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_3		176464
+	245009484	Footstep_Grass_8	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_8		88264
+	372541517	Player_interact_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Player_interact_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_2		176464
+	435565415	Morning Transition	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Morning transition_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Morning Transition		588812
+	463955417	Footstep_Gravel_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_1		88264
+	485916639	NoteBook Open	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\NotePad_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Open		176464
+	523339144	Player_interact_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Player_interact_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_1		176464
+	549025861	Footstep_Grass_5	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_5		88264
+	566440037	Footstep_Grass_7	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_7		88264
+	573042789	Footstep_Grass_6	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_6		88264
+	613306039	Night Transition	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Night Transition_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Night Transition		793864
+	700504016	Footstep_Gravel_5	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_5		88264
+	717087124	Footstep_Gravel_7	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_7		88264
+	763773164	SheepBleat_Generic_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\SheepBleat_Generic_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_2		297316
+	769950990	Footstep_Gravel_4	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_4		88264
+	777090912	NoteBook Close	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\NotePad_close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Close		176464
+	816001997	Ambience	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Farm_Ambience_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience		6350464
+	848808619	SheepBleat_Generic_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\SheepBleat_Generic_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_3		190380
+	859699568	Footstep_Grass_4	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_4		88264
+	903338530	Footstep_Gravel_6	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_6		88264
+	990467315	Footstep_Gravel_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_3		88264
+	1039937479	Footstep_Grass_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_1		88264
+	1042503933	NoteBook Page Turn	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\NotePad_PageTurn_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Page Turn		176464
+
