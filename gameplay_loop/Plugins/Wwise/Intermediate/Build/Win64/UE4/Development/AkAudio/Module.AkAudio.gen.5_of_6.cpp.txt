@@ -1,0 +1,303 @@
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Development\AkAudio\Definitions.AkAudio.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkSpatialAudioVolume.gen.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkSpatialAudioVolume.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkSurfaceReflectorSetComponent.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTexture.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkAudioType.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/AkWwiseSDKVersion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngine.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngineExport.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/AkPlatforms.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkTypes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkTypes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlugin.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCommonDefs.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerConfig.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerVolumes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Generic/AkSpeakerVolumes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkPlatformFuncs.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkAtomic.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkAtomic.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkPlatformFuncs.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkAssert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPluginMemAlloc.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMemoryMgr.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkArray.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkObject.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkString.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkFNVHash.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkHashList.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyDef.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkRTPCSubscriber.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkFPUtilities.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkLock.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkLock.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkMonitorError.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkProcessorFeatures.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlatformContext.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMidiTypes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCallback.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkWinSoundEngine.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkPlatformContext.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudio.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudioTypes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyArray.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkSet.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkReflectGameData.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/IBytes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkModule.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkStreamMgr.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkStreamMgrModule.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/MusicEngine/Common/AkMusicEngine.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/Comm/AkCommunication.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkQueryParameters.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioType.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAcousticTexture.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTextureSetComponent.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysicalMaterials/PhysicalMaterial.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\PhysicsCore\PhysicalMaterial.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkRtpc.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkRtpc.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSettings.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAcousticTextureSetComponent.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkGameObject.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkUEPlatform.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows/AkWindowsPlatform.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformBase.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkInitializationSettings.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkInitializationSettings.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkPlatformInitialisationSettingsBase.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkPlatformInitialisationSettingsBase.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\LatentActions.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGameplayTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject/Public/UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkEnvironmentIndex.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGameObject.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\TextRenderComponent.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSurfaceReflectorSetComponent.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkLateReverbComponent.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkReverbDescriptor.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkReverbDescriptor.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkLateReverbComponent.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkRoomComponent.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkRoomComponent.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSpatialAudioVolume.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkSpotReflector.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkSpotReflector.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSpotReflector.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkStateValue.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkStateValue.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkGroupValue.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGroupValue.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkStateValue.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkSurfaceReflectorSetComponent.gen.cpp
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkSwitchInitializationSettings.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_Switch/AkSwitchInitializationSettings.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSwitchInitializationSettings.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkSwitchPlatformInfo.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_Switch/AkSwitchPlatformInfo.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameEngine.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkPlatformInfo.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSwitchPlatformInfo.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkSwitchValue.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkSwitchValue.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSwitchValue.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkTrigger.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkTrigger.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkTrigger.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkTVOSInitializationSettings.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_tvOS/AkTVOSInitializationSettings.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkAudioSession.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioSession.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkTVOSInitializationSettings.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkTVOSPlatformInfo.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_tvOS/AkTVOSPlatformInfo.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkTVOSPlatformInfo.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWaapiCalls.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkWaapiBlueprints/AkWaapiCalls.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiUri.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Views/STreeView.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSearchBox.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableTextBox.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableText.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Text/ISlateEditableTextWidget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilterExpressionEvaluator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilterUtils.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/IFilter.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiUri.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUtils.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Public\AkWaapiClient.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/waapi.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiJsonManager.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints/AkWaapiFieldNames.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiFieldNames.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiJsonManager.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiCalls.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWaapiFieldNames.gen.cpp
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWaapiJsonManager.gen.cpp
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWaapiUri.gen.cpp
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWindowsInitializationSettings.gen.cpp
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWindowsPlatformInfo.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_Windows/AkWindowsPlatformInfo.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWindowsPlatformInfo.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWwiseTree.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkWaapiUMG/Components/AkWwiseTree.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\Widget.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/SWaapiPicker.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker\WwiseTreeItem.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\WwiseItemType.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\WwiseItemType.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkSlider.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkItemProperties.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\SAkItemProperties.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkItemProperties.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSlider.generated.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWwiseTree.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkWwiseTreeSelector.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/AkWaapiUMG/Components/AkWwiseTreeSelector.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWwiseTreeSelector.generated.h
+C:/Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/AkXboxOneInitializationSettings.gen.cpp
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Source\AkAudio/Classes/Platforms/AkPlatform_XboxOne/AkXboxOneInitializationSettings.h
+C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkXboxOneInitializationSettings.generated.h
