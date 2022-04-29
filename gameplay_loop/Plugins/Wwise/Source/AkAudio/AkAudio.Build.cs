@@ -112,7 +112,7 @@ public abstract class AkUEPlatform
 
 	public virtual List<string> GetRuntimeDependencies()
 	{
-		return GetAllLibrariesInFolder(Path.Combine(ThirdPartyFolder, AkPlatformLibDir, AkConfigurationDir, "bin"), DynamicLibExtension, false, true);
+		return GetAllLibrariesInFolder(Path.Combine(ThirdPartyFolder, AkPlatformLibDir, AkConfigurationDir, "lib"), DynamicLibExtension, false, true);
 	}
 
 	public abstract List<string> GetAdditionalWwiseLibs();
