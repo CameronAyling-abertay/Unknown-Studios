@@ -115,6 +115,9 @@
 					<ObjectLists/>
 				</RandomSequenceContainer>
 				<Sound Name="Ambience" ID="{C9E5CB8D-2994-4A31-BC04-0546C4F233DB}" ShortID="700021152">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AB4EB6AB-B0BE-4417-ABF3-549E98ACE211}"/>

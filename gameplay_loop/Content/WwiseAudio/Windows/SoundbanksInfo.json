@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\Content\\WwiseAudio\\Windows\\",
+   "ProjectRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\Content\\WwiseAudio\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -105,7 +105,7 @@
     "Id": "4056684167",
     "GUID": "{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}",
     "Language": "SFX",
-    "Hash": "2514276679",
+    "Hash": "2096005777",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
     "Path": "Master.bnk",
@@ -132,15 +132,13 @@
       "Name": "Ambience",
       "ObjectPath": "\\Events\\Default Work Unit\\Ambience",
       "GUID": "{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}",
-      "DurationType": "OneShot",
-      "DurationMin": "36.000000",
-      "DurationMax": "36.000000",
+      "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
         "Id": "816001997",
         "Language": "SFX",
         "ShortName": "Farm_Ambience.wav",
-        "Path": "SFX\\Farm_Ambience_10C4C929.wem"
+        "Path": "SFX\\Farm_Ambience_D79FB2B7.wem"
        }
       ]
      },

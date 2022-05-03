@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Mac\\",
-   "SoundBanksRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ProjectRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Mac\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Mac"
+   "ExternalSourcesOutputRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Mac"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -28,7 +28,7 @@
     "Id": "1533192012",
     "GUID": "{585B9FEC-1924-4126-91CD-5C9C624C9784}",
     "Language": "SFX",
-    "Hash": "753561291",
+    "Hash": "726020998",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\GameMusic",
     "ShortName": "GameMusic",
     "Path": "GameMusic.bnk",
@@ -106,7 +106,7 @@
     "Id": "4056684167",
     "GUID": "{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}",
     "Language": "SFX",
-    "Hash": "2259199446",
+    "Hash": "2185820735",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
     "Path": "Master.bnk",
@@ -133,15 +133,13 @@
       "Name": "Ambience",
       "ObjectPath": "\\Events\\Default Work Unit\\Ambience",
       "GUID": "{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}",
-      "DurationType": "OneShot",
-      "DurationMin": "36.000000",
-      "DurationMax": "36.000000",
+      "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
         "Id": "816001997",
         "Language": "SFX",
         "ShortName": "Farm_Ambience.wav",
-        "Path": "SFX\\Farm_Ambience_10C4C929.wem"
+        "Path": "SFX\\Farm_Ambience_D79FB2B7.wem"
        }
       ]
      },

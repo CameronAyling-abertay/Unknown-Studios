@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\Content\\WwiseAudio\\Windows\\",
+   "ProjectRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\Content\\WwiseAudio\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
   },
   "SoundBanks": [
    {
