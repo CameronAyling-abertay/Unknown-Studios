@@ -14,6 +14,13 @@
 					</ReferenceList>
 					<ChildrenList>
 						<MusicPlaylistContainer Name="Gameplay" ID="{1FC6D74C-55FD-4FB4-AE22-C4475F509666}" ShortID="316362873">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AB4EB6AB-B0BE-4417-ABF3-549E98ACE211}"/>
@@ -137,6 +144,13 @@
 							</Playlist>
 						</MusicPlaylistContainer>
 						<MusicPlaylistContainer Name="Menu" ID="{92564A69-1BA5-46BE-9664-73DC73C733FA}" ShortID="850271773">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AB4EB6AB-B0BE-4417-ABF3-549E98ACE211}"/>

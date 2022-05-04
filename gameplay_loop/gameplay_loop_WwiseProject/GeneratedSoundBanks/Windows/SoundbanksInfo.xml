@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="3390066332">
+		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="3367452640">
 			<ObjectPath>\SoundBanks\Default Work Unit\GameMusic</ObjectPath>
 			<ShortName>GameMusic</ShortName>
 			<Path>GameMusic.bnk</Path>
@@ -56,7 +56,7 @@
 				</StateGroup>
 			</StateGroups>
 		</SoundBank>
-		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1580742929">
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1865269529">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>

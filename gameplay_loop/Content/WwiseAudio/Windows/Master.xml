@@ -8,7 +8,7 @@
 		<ExternalSourcesOutputRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="2749012477">
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1416013746">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
