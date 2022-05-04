@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="726020998">
+		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="3367452640">
 			<ObjectPath>\SoundBanks\Default Work Unit\GameMusic</ObjectPath>
 			<ShortName>GameMusic</ShortName>
 			<Path>GameMusic.bnk</Path>
@@ -56,7 +56,7 @@
 				</StateGroup>
 			</StateGroups>
 		</SoundBank>
-		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="2185820735">
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1865269529">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
@@ -74,6 +74,14 @@
 						<File Id="816001997" Language="SFX">
 							<ShortName>Farm_Ambience.wav</ShortName>
 							<Path>SFX\Farm_Ambience_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2698747613" Name="Button_Press" ObjectPath="\Events\Default Work Unit\Button_Press" GUID="{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}" DurationType="OneShot" DurationMin="0.485766" DurationMax="0.514651">
+					<IncludedMemoryFiles>
+						<File Id="792092826" Language="SFX">
+							<ShortName>Button press.wav</ShortName>
+							<Path>SFX\Button press_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

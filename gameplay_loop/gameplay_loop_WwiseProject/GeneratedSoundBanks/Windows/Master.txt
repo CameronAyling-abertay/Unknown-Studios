@@ -5,6 +5,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	977718567	Sheep_Bleat			\Default Work Unit\Sheep_Bleat	
 	1254780955	Morning_Transition			\Default Work Unit\Morning_Transition	
 	1602358412	Play_Footstep			\Default Work Unit\Play_Footstep	
+	2698747613	Button_Press			\Default Work Unit\Button_Press	
 	2920643383	Notebook_Close			\Default Work Unit\Notebook_Close	
 	3191529017	Night_Transition			\Default Work Unit\Night_Transition	
 	4199328015	Player_Inspect			\Default Work Unit\Player_Inspect	
@@ -39,6 +40,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	763773164	SheepBleat_Generic_2	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\SheepBleat_Generic_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_2		297316
 	769950990	Footstep_Gravel_4	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Gravel_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_4		88264
 	777090912	NoteBook Close	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\NotePad_close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Close		176464
+	792092826	Button press	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Button press_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Button press		88264
 	816001997	Ambience	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Farm_Ambience_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience		6350464
 	848808619	SheepBleat_Generic_3	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\SheepBleat_Generic_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_3		190380
 	859699568	Footstep_Grass_4	\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\SFX\Footstep_Grass_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_4		88264

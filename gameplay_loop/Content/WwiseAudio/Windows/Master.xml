@@ -8,7 +8,7 @@
 		<ExternalSourcesOutputRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="2096005777">
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1416013746">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
@@ -26,6 +26,14 @@
 						<File Id="816001997" Language="SFX">
 							<ShortName>Farm_Ambience.wav</ShortName>
 							<Path>SFX\Farm_Ambience_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2698747613" Name="Button_Press" ObjectPath="\Events\Default Work Unit\Button_Press" GUID="{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}" DurationType="OneShot" DurationMin="0.485766" DurationMax="0.514651">
+					<IncludedMemoryFiles>
+						<File Id="792092826" Language="SFX">
+							<ShortName>Button press.wav</ShortName>
+							<Path>SFX\Button press_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
