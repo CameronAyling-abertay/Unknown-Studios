@@ -119,7 +119,7 @@
 						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>-10</Value>
+								<Value>-5</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -249,6 +249,13 @@
 					<ObjectLists/>
 				</RandomSequenceContainer>
 				<Sound Name="Morning Transition" ID="{E2C6109E-4E8E-42B4-ABFE-54A08896B24B}" ShortID="1065442779">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AB4EB6AB-B0BE-4417-ABF3-549E98ACE211}"/>
@@ -415,6 +422,13 @@
 					</ActiveSourceList>
 				</Sound>
 				<SwitchContainer Name="Play_Footstep" ID="{65C85D74-7A71-41D0-8241-FA719D987DD6}" ShortID="363103494">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AB4EB6AB-B0BE-4417-ABF3-549E98ACE211}"/>
@@ -900,8 +914,21 @@
 									<Modifier Name="" ID="{A2FC1E4E-F1F4-412B-A507-CAF978D0C5CB}">
 										<PropertyList>
 											<Property Name="Enabled" Type="bool" Value="True"/>
-											<Property Name="Max" Type="Real64" Value="50"/>
-											<Property Name="Min" Type="Real64" Value="-50"/>
+											<Property Name="Max" Type="Real64" Value="100"/>
+											<Property Name="Min" Type="Real64" Value="-100"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{7D15A8C5-FA7A-4369-88ED-F4E68F546EE7}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="1"/>
+											<Property Name="Min" Type="Real64" Value="-1"/>
 										</PropertyList>
 									</Modifier>
 								</ModifierInfo>

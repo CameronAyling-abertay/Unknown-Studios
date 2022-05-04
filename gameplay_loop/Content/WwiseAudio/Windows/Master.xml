@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ProjectRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\Content\WwiseAudio\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1416013746">
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="1053255459">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
@@ -29,7 +29,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2698747613" Name="Button_Press" ObjectPath="\Events\Default Work Unit\Button_Press" GUID="{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}" DurationType="OneShot" DurationMin="0.485766" DurationMax="0.514651">
+				<Event Id="2698747613" Name="Button_Press" ObjectPath="\Events\Default Work Unit\Button_Press" GUID="{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}" DurationType="OneShot" DurationMin="0.471937" DurationMax="0.529732">
 					<IncludedMemoryFiles>
 						<File Id="792092826" Language="SFX">
 							<ShortName>Button press.wav</ShortName>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>\\StuHomeOdd\HomeDrive7$\1900067\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="3367452640">
+		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="2725549278">
 			<ObjectPath>\SoundBanks\Default Work Unit\GameMusic</ObjectPath>
 			<ShortName>GameMusic</ShortName>
 			<Path>GameMusic.bnk</Path>

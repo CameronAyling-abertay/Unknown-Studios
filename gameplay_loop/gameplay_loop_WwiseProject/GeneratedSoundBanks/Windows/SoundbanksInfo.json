@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
-   "SourceFilesRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
-   "SoundBanksRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "\\\\StuHomeOdd\\HomeDrive7$\\1900067\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "\\\\StuHomeOdd\\HomeDrive7$\\1900067\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "\\\\StuHomeOdd\\HomeDrive7$\\1900067\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "\\\\StuHomeOdd\\HomeDrive7$\\1900067\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -28,7 +28,7 @@
     "Id": "1533192012",
     "GUID": "{585B9FEC-1924-4126-91CD-5C9C624C9784}",
     "Language": "SFX",
-    "Hash": "3367452640",
+    "Hash": "2725549278",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\GameMusic",
     "ShortName": "GameMusic",
     "Path": "GameMusic.bnk",
@@ -106,7 +106,7 @@
     "Id": "4056684167",
     "GUID": "{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}",
     "Language": "SFX",
-    "Hash": "1865269529",
+    "Hash": "1100518686",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
     "Path": "Master.bnk",
@@ -149,8 +149,8 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Button_Press",
       "GUID": "{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}",
       "DurationType": "OneShot",
-      "DurationMin": "0.485766",
-      "DurationMax": "0.514651",
+      "DurationMin": "0.471937",
+      "DurationMax": "0.529732",
       "IncludedMemoryFiles": [
        {
         "Id": "792092826",
