@@ -28,7 +28,7 @@
     "Id": "1533192012",
     "GUID": "{585B9FEC-1924-4126-91CD-5C9C624C9784}",
     "Language": "SFX",
-    "Hash": "726020998",
+    "Hash": "3390066332",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\GameMusic",
     "ShortName": "GameMusic",
     "Path": "GameMusic.bnk",
@@ -106,7 +106,7 @@
     "Id": "4056684167",
     "GUID": "{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}",
     "Language": "SFX",
-    "Hash": "2185820735",
+    "Hash": "1580742929",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
     "Path": "Master.bnk",
@@ -140,6 +140,23 @@
         "Language": "SFX",
         "ShortName": "Farm_Ambience.wav",
         "Path": "SFX\\Farm_Ambience_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2698747613",
+      "Name": "Button_Press",
+      "ObjectPath": "\\Events\\Default Work Unit\\Button_Press",
+      "GUID": "{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.485766",
+      "DurationMax": "0.514651",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "792092826",
+        "Language": "SFX",
+        "ShortName": "Button press.wav",
+        "Path": "SFX\\Button press_10C4C929.wem"
        }
       ]
      },
