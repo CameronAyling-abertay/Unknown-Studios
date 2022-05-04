@@ -5,18 +5,18 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "\\\\StuHomeEven\\HomeDrive6$\\1901206\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Windows"
   },
   "SoundBanks": [
    {
     "Id": "1533192012",
     "GUID": "{585B9FEC-1924-4126-91CD-5C9C624C9784}",
     "Language": "SFX",
-    "Hash": "753561291",
+    "Hash": "726020998",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\GameMusic",
     "ShortName": "GameMusic",
     "Path": "GameMusic.bnk",

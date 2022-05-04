@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="2259199446">
+		<SoundBank Id="4056684167" GUID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}" Language="SFX" Hash="2185820735">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
@@ -21,11 +21,11 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Ambience" GUID="{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}" DurationType="OneShot" DurationMin="36.000000" DurationMax="36.000000">
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Ambience" GUID="{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="816001997" Language="SFX">
 							<ShortName>Farm_Ambience.wav</ShortName>
-							<Path>SFX\Farm_Ambience_10C4C929.wem</Path>
+							<Path>SFX\Farm_Ambience_D79FB2B7.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

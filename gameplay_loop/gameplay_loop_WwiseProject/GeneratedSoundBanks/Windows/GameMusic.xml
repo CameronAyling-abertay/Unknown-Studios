@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>\\StuHomeEven\HomeDrive6$\1901206\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="753561291">
+		<SoundBank Id="1533192012" GUID="{585B9FEC-1924-4126-91CD-5C9C624C9784}" Language="SFX" Hash="726020998">
 			<ObjectPath>\SoundBanks\Default Work Unit\GameMusic</ObjectPath>
 			<ShortName>GameMusic</ShortName>
 			<Path>GameMusic.bnk</Path>
