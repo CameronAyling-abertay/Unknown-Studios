@@ -5,6 +5,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	977718567	Sheep_Bleat			\Default Work Unit\Sheep_Bleat	
 	1254780955	Morning_Transition			\Default Work Unit\Morning_Transition	
 	1602358412	Play_Footstep			\Default Work Unit\Play_Footstep	
+	2698747613	Button_Press			\Default Work Unit\Button_Press	
 	2920643383	Notebook_Close			\Default Work Unit\Notebook_Close	
 	3191529017	Night_Transition			\Default Work Unit\Night_Transition	
 	3991942870	Music			\Default Work Unit\Music	
@@ -26,35 +27,48 @@ State	ID	Name	State Group			Notes
 	2322231365	Gameplay_Music	Music			
 	4055567060	Menu_Music	Music			
 
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+	393239870	SFX			\Default Work Unit\SFX	
+	3991942870	Music			\Default Work Unit\Music	
+	4056684167	Master			\Default Work Unit\Master	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1502772432	SFX bus			\Default Work Unit\Master Audio Bus\SFX bus	
+	3127962312	Music Bus			\Default Work Unit\Master Audio Bus\Music Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	4202237879	Ambience bus			\Default Work Unit\Master Audio Bus\Ambience bus	
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	44776130	Footstep_Grass_2	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_2		88264
-	67585729	SheepBleat_Generic_1	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\SheepBleat_Generic_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_1		300820
-	131261679	Footstep_Gravel_2	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_2		88264
-	153198828	Footstep_Grass_3	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_3		88264
-	166928421	Action Point ticking	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\ticking_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Action Point ticking		310264
-	229693853	Player_interact_3	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Player_interact_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_3		176464
-	245009484	Footstep_Grass_8	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_8		88264
-	372541517	Player_interact_2	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Player_interact_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_2		176464
-	435565415	Morning Transition	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Morning transition_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Morning Transition		588812
-	463955417	Footstep_Gravel_1	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_1		88264
-	485916639	NoteBook Open	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\NotePad_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Open		176464
-	523339144	Player_interact_1	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Player_interact_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_1		176464
-	549025861	Footstep_Grass_5	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_5		88264
-	566440037	Footstep_Grass_7	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_7		88264
-	573042789	Footstep_Grass_6	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_6		88264
-	613306039	Night Transition	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Night Transition_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Night Transition		793864
-	700504016	Footstep_Gravel_5	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_5		88264
-	713675144	country music loop_wav	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\country music loop.wav_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Gameplay\country music loop_wav\country music loop_wav		17022664
-	717087124	Footstep_Gravel_7	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_7		88264
-	763773164	SheepBleat_Generic_2	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\SheepBleat_Generic_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_2		297316
-	769950990	Footstep_Gravel_4	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_4		88264
-	777090912	NoteBook Close	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\NotePad_close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Close		176464
-	816001997	Ambience	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Farm_Ambience_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience		6350464
-	848808619	SheepBleat_Generic_3	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\SheepBleat_Generic_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_3		190380
-	859699568	Footstep_Grass_4	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_4		88264
-	903338530	Footstep_Gravel_6	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_6		88264
-	990467315	Footstep_Gravel_3	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_3		88264
-	1039937479	Footstep_Grass_1	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_1		88264
-	1042503933	NoteBook Page Turn	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\NotePad_PageTurn_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Page Turn		176464
-	1042729092	country music loop - menu var-_wav	C:\Users\egrwv\Desktop\development\projects\Unknown Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\country music loop - menu var-.wav_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Menu\country music loop - menu var-_wav\country music loop - menu var-_wav		17022664
+	44776130	Footstep_Grass_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_2		88264
+	67585729	SheepBleat_Generic_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\SheepBleat_Generic_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_1		300820
+	131261679	Footstep_Gravel_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_2		88264
+	153198828	Footstep_Grass_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_3		88264
+	166928421	Action Point ticking	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\ticking_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Action Point ticking		310264
+	229693853	Player_interact_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Player_interact_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_3		176464
+	245009484	Footstep_Grass_8	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_8		88264
+	372541517	Player_interact_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Player_interact_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_2		176464
+	435565415	Morning Transition	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Morning transition_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Morning Transition		588812
+	463955417	Footstep_Gravel_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_1		88264
+	485916639	NoteBook Open	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\NotePad_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Open		176464
+	523339144	Player_interact_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Player_interact_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player Inspection\Player_interact_1		176464
+	549025861	Footstep_Grass_5	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_5		88264
+	566440037	Footstep_Grass_7	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_7		88264
+	573042789	Footstep_Grass_6	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_6		88264
+	613306039	Night Transition	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Night Transition_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Night Transition		793864
+	700504016	Footstep_Gravel_5	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_5		88264
+	713675144	country music loop_wav	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\country music loop.wav_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Gameplay\country music loop_wav\country music loop_wav		17022664
+	717087124	Footstep_Gravel_7	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_7		88264
+	763773164	SheepBleat_Generic_2	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\SheepBleat_Generic_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_2		297316
+	769950990	Footstep_Gravel_4	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_4		88264
+	777090912	NoteBook Close	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\NotePad_close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Close		176464
+	792092826	Button press	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Button press_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Button press		88264
+	816001997	Ambience	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Farm_Ambience_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience		6350464
+	848808619	SheepBleat_Generic_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\SheepBleat_Generic_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sheep Bleats\SheepBleat_Generic_3		190380
+	859699568	Footstep_Grass_4	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_4		88264
+	903338530	Footstep_Gravel_6	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_6		88264
+	990467315	Footstep_Gravel_3	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Gravel_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Dirt\Footstep_Gravel_3		88264
+	1039937479	Footstep_Grass_1	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\Footstep_Grass_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Play_Footstep\Footsteps Grass\Footstep_Grass_1		88264
+	1042503933	NoteBook Page Turn	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\NotePad_PageTurn_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NoteBook Page Turn		176464
+	1042729092	country music loop - menu var-_wav	C:\Users\aaron\OneDrive\Documents\GitHub\Unknown-Studios\gameplay_loop\gameplay_loop_WwiseProject\.cache\Mac\SFX\country music loop - menu var-.wav_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Menu\country music loop - menu var-_wav\country music loop - menu var-_wav		17022664
 
