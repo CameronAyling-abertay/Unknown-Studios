@@ -5,6 +5,8 @@
 			<ChildrenList>
 				<SoundBank Name="Master" ID="{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{BEEEFE8D-05DB-4595-9CF5-A074AB47858A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambience bus" ID="{1FC70A28-D6D1-474D-9E80-1FDA967FF17C}" WorkUnitID="{BEEEFE8D-05DB-4595-9CF5-A074AB47858A}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Player_Inspect" ID="{87379236-A3DE-4897-B569-58C69F1520C6}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="ActionPoint_Spent" ID="{26258783-F522-496A-B681-D18F1057A1DA}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="NoteBook_PageTurn" ID="{3866C861-D012-49A9-8BB8-DE65F98E5C87}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
@@ -12,6 +14,7 @@
 						<ObjectRef Name="Button_Press" ID="{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Night_Transition" ID="{1E9D2DF1-E7AD-4B7A-941B-1903D84C1307}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="NoteBook_Open" ID="{2594B4DE-D64B-4BE2-8A4A-DC086525AD3D}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SFX bus" ID="{859C7DFE-7D4C-4C82-861F-B97DE4D024E4}" WorkUnitID="{BEEEFE8D-05DB-4595-9CF5-A074AB47858A}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Footstep" ID="{418EF010-5074-4CA2-9EE6-D509F2AD8BE0}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Notebook_Close" ID="{2414DE32-7712-4D52-9854-B8D38E1D3E32}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambience" ID="{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
@@ -22,6 +25,8 @@
 				</SoundBank>
 				<SoundBank Name="GameMusic" ID="{585B9FEC-1924-4126-91CD-5C9C624C9784}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{BEEEFE8D-05DB-4595-9CF5-A074AB47858A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music Bus" ID="{5006290A-EBAA-44BA-8E25-AC689E840ED9}" WorkUnitID="{BEEEFE8D-05DB-4595-9CF5-A074AB47858A}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Music" ID="{B29EAEEB-68A9-4683-A586-1ECCB3F03C1D}" WorkUnitID="{450D24AE-387E-437A-BA0C-7CDC07734DF1}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

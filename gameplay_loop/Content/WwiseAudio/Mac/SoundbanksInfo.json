@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
-   "SourceFilesRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Mac\\",
-   "SoundBanksRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\Content\\WwiseAudio\\Mac\\",
+   "ProjectRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\Content\\WwiseAudio\\Mac\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\egrwv\\Desktop\\development\\projects\\Unknown Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Mac"
+   "ExternalSourcesOutputRoot": "C:\\Users\\aaron\\OneDrive\\Documents\\GitHub\\Unknown-Studios\\gameplay_loop\\gameplay_loop_WwiseProject\\GeneratedSoundBanks\\Mac"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -19,10 +19,36 @@
     "Id": "1355168291",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "3017090543",
+    "Hash": "1865473287",
     "ObjectPath": "Init",
     "ShortName": "Init",
-    "Path": "Init.bnk"
+    "Path": "Init.bnk",
+    "GameParameters": [
+     {
+      "Id": "85412153",
+      "Name": "Ambience",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Ambience",
+      "GUID": "{93709D6D-71DC-4228-B769-803F59C15B97}"
+     },
+     {
+      "Id": "393239870",
+      "Name": "SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\SFX",
+      "GUID": "{538AB230-A025-4AA5-8664-B291F0399C8F}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Music",
+      "GUID": "{BECD2E45-EE1E-4A29-88E5-5FA82BBA1A4D}"
+     },
+     {
+      "Id": "4056684167",
+      "Name": "Master",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Master",
+      "GUID": "{EF520738-56B7-4479-A908-14427D92F38B}"
+     }
+    ]
    },
    {
     "Id": "1533192012",
@@ -72,6 +98,32 @@
       ]
      }
     ],
+    "GameParameters": [
+     {
+      "Id": "85412153",
+      "Name": "Ambience",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Ambience",
+      "GUID": "{93709D6D-71DC-4228-B769-803F59C15B97}"
+     },
+     {
+      "Id": "393239870",
+      "Name": "SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\SFX",
+      "GUID": "{538AB230-A025-4AA5-8664-B291F0399C8F}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Music",
+      "GUID": "{BECD2E45-EE1E-4A29-88E5-5FA82BBA1A4D}"
+     },
+     {
+      "Id": "4056684167",
+      "Name": "Master",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Master",
+      "GUID": "{EF520738-56B7-4479-A908-14427D92F38B}"
+     }
+    ],
     "StateGroups": [
      {
       "Id": "3991942870",
@@ -105,7 +157,7 @@
     "Id": "4056684167",
     "GUID": "{CCF2C164-511D-44E9-B6B4-EDAADBCBF609}",
     "Language": "SFX",
-    "Hash": "2514276679",
+    "Hash": "3518111",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
     "Path": "Master.bnk",
@@ -132,15 +184,30 @@
       "Name": "Ambience",
       "ObjectPath": "\\Events\\Default Work Unit\\Ambience",
       "GUID": "{CBF52E21-F865-4D56-A8A1-5E6C0C44AFAF}",
-      "DurationType": "OneShot",
-      "DurationMin": "36.000000",
-      "DurationMax": "36.000000",
+      "DurationType": "Infinite",
       "IncludedMemoryFiles": [
        {
         "Id": "816001997",
         "Language": "SFX",
         "ShortName": "Farm_Ambience.wav",
-        "Path": "SFX\\Farm_Ambience_10C4C929.wem"
+        "Path": "SFX\\Farm_Ambience_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2698747613",
+      "Name": "Button_Press",
+      "ObjectPath": "\\Events\\Default Work Unit\\Button_Press",
+      "GUID": "{531FCDCF-5487-4AE0-B32E-C09749BF0DCE}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.471937",
+      "DurationMax": "0.529732",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "792092826",
+        "Language": "SFX",
+        "ShortName": "Button press.wav",
+        "Path": "SFX\\Button press_10C4C929.wem"
        }
       ]
      },
@@ -484,6 +551,32 @@
         "Path": "SFX\\SheepBleat_Generic_3_10C4C929.wem"
        }
       ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "85412153",
+      "Name": "Ambience",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Ambience",
+      "GUID": "{93709D6D-71DC-4228-B769-803F59C15B97}"
+     },
+     {
+      "Id": "393239870",
+      "Name": "SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\SFX",
+      "GUID": "{538AB230-A025-4AA5-8664-B291F0399C8F}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Music",
+      "GUID": "{BECD2E45-EE1E-4A29-88E5-5FA82BBA1A4D}"
+     },
+     {
+      "Id": "4056684167",
+      "Name": "Master",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Master",
+      "GUID": "{EF520738-56B7-4479-A908-14427D92F38B}"
      }
     ],
     "StateGroups": [

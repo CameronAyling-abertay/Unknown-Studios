@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{17A10E85-CB58-4562-B10D-9814C36F2E8A}" SchemaVersion="103">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{17A10E85-CB58-4562-B10D-9814C36F2E8A}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{17A10E85-CB58-4562-B10D-9814C36F2E8A}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Music" ID="{BECD2E45-EE1E-4A29-88E5-5FA82BBA1A4D}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0.5"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Ambience" ID="{93709D6D-71DC-4228-B769-803F59C15B97}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0.5"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="SFX" ID="{538AB230-A025-4AA5-8664-B291F0399C8F}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0.5"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Master" ID="{EF520738-56B7-4479-A908-14427D92F38B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0.5"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>
