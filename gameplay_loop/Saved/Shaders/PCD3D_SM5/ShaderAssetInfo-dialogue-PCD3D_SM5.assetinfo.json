@@ -14,7 +14,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"ShaderMapHash": "FD1E683AF8D2A3B1DABB0BFFB037069F29D87331",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
 			]
@@ -238,117 +238,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "164550E43F20D588B7D57BE225E3369865C2B443",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Items/Gravestone/material_gravestone.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "0389CAD32BB562A2A67F1858DDEAB4BCE6DD4674",
 			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Items/Clue_Mat.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/UI/INTERACT_ICON_Mat.uasset"
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/UI/INTERACT_ICON_Mat.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Items/Clue_Mat.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "8A4DB991947A129EEFE1D86C40561AD27D02CD91",
 			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Bubbl.uasset"
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Bubbl.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "21B2490BC7BEC68DC2193E0527AE78FA8F115A24",
+			"ShaderMapHash": "164550E43F20D588B7D57BE225E3369865C2B443",
 			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Water_Trough.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Water_Bucket.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C85D0280F9FD32DF0D8D4DCCBEA10F1C5A5A0B51",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Fence_Barrier.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Hay_B_R.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Hay_B_B.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7557193DCBA619E66A5BEDDD68017D414E39043D",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Barn_Mat.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Sign_Post.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2AC320F934F2E5442F121C725E83AE20CD70583D",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Pond.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C50BA5BBCF857E4C96EAB856A85710406C707967",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Landscape_Master.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "F435F16EEA24B28EE61EAA1A928301C695643CFA",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Flower_Decal.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "67B01E2E7D8552D5D7BA7E970CC1C8306AB6CAEB",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Mesh_Assets/Rocks/Mat_Gray_Round_rock.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "892BE3CD059C7F71F64DC3992D7E908A8A2AB78D",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Fence_Posts.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Fence_Main.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B3CFBAB9D8DDDF8055BDE6C2ECC4368AD0DBB3EC",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Foliage_Master.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FCBB7159BDE0E6A18CA0C44A7AFFEF5E19961A9C",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Standard_Tree_Bark.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7BF575CD45EB9BF744C65C6E238F4AACE96A7A90",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1CC6BDEDE7AA258740F1E3ECECD701102B64A4A6",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "208B2A21E2D2A4AD82B9D23D8B8C109B4E6FA35D",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FD43DC2C5EA9DC2529A676C36667EDF584AF4625",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E82607D4EA4466A3B247EF3131BCEEEAFC582D4B",
-			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Items/Gravestone/material_gravestone.uasset"
 			]
 		},
 		{
@@ -366,8 +271,103 @@
 		{
 			"ShaderMapHash": "5B4D8E7B88908D461F59588B6E88D02D5F0F4065",
 			"Assets": [
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Stone_Wall_Standard.uasset",
-				"../../../../Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Stone_Wall_Pillar.uasset"
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Stone_Wall_Standard.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Stone_Wall_Pillar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "21B2490BC7BEC68DC2193E0527AE78FA8F115A24",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Water_Trough.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Water_Bucket.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C85D0280F9FD32DF0D8D4DCCBEA10F1C5A5A0B51",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Fence_Barrier.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Hay_B_R.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Hay_B_B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7557193DCBA619E66A5BEDDD68017D414E39043D",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Barn_Mat.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Sign_Post.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2AC320F934F2E5442F121C725E83AE20CD70583D",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Pond.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C50BA5BBCF857E4C96EAB856A85710406C707967",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Landscape_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F435F16EEA24B28EE61EAA1A928301C695643CFA",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Flower_Decal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "67B01E2E7D8552D5D7BA7E970CC1C8306AB6CAEB",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Mesh_Assets/Rocks/Mat_Gray_Round_rock.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "892BE3CD059C7F71F64DC3992D7E908A8A2AB78D",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Fence_Posts.uasset",
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Fence_Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B3CFBAB9D8DDDF8055BDE6C2ECC4368AD0DBB3EC",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Foliage_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCBB7159BDE0E6A18CA0C44A7AFFEF5E19961A9C",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Art_Assets/Textures_and_Materials/Standard_Tree_Bark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7BF575CD45EB9BF744C65C6E238F4AACE96A7A90",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1CC6BDEDE7AA258740F1E3ECECD701102B64A4A6",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "208B2A21E2D2A4AD82B9D23D8B8C109B4E6FA35D",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD43DC2C5EA9DC2529A676C36667EDF584AF4625",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E82607D4EA4466A3B247EF3131BCEEEAFC582D4B",
+			"Assets": [
+				"../../../../../../Users/The Dark Tower/Documents/Abertay/Unknown-Studios/gameplay_loop/Content/ourProject/Levels/Environment.uasset"
 			]
 		}
 	]

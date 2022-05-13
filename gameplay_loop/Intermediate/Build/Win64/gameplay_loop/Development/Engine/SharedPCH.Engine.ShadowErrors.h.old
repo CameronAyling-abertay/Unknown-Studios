@@ -1,4 +1,4 @@
-// PCH for C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
+// PCH for D:\UE_4.26\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -29,14 +29,14 @@
 #define WITH_PUSH_MODEL 0
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
-#define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_4.26\\Engine"
-#define UE_LIVE_CODING_PROJECT "C:\\Users\\The Dark Tower\\Documents\\Abertay\\Unknown-Studios\\gameplay_loop\\dialogue.uproject"
+#define UE_LIVE_CODING_ENGINE_DIR "D:\\UE_4.26\\Engine"
+#define UE_LIVE_CODING_PROJECT "D:\\Unknown-Studios\\gameplay_loop\\dialogue.uproject"
 #define UBT_MODULE_MANIFEST "UE4.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "UE4-Win64-DebugGame.modules"
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UE4"
-#define UE_ENGINE_DIRECTORY "../../../../../../../../Program Files/Epic Games/UE_4.26/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../UE_4.26/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -171,4 +171,4 @@
 #define AUDIOMIXER_API 
 #define TARGETPLATFORM_API 
 #define ANIMATIONCORE_API 
-#include "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h"
+#include "D:/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h"

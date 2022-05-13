@@ -34,14 +34,14 @@
 #define WITH_PUSH_MODEL 0
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
-#define UE_LIVE_CODING_ENGINE_DIR "D:\\UE_4.26\\Engine"
-#define UE_LIVE_CODING_PROJECT "D:\\Unknown-Studios\\gameplay_loop\\dialogue.uproject"
+#define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_4.26\\Engine"
+#define UE_LIVE_CODING_PROJECT "C:\\Users\\The Dark Tower\\Documents\\Abertay\\Unknown-Studios\\gameplay_loop\\dialogue.uproject"
 #define UBT_MODULE_MANIFEST "UE4.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "UE4-Win64-DebugGame.modules"
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UE4"
-#define UE_ENGINE_DIRECTORY "../../../../UE_4.26/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../../Program Files/Epic Games/UE_4.26/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -61,7 +61,7 @@
 #define AK_SUPPORT_WAAPI 1
 #define AK_SUPPORT_OPUS 1
 #define AK_SUPPORT_DEVICE_MEMORY 0
-#define AK_WINDOWS_VS_VERSION "vc150"
+#define AK_WINDOWS_VS_VERSION "vc160"
 #define AK_CONFIGURATION "Profile"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
@@ -190,7 +190,7 @@
 #define AK_SUPPORT_WAAPI 1
 #define AK_SUPPORT_OPUS 1
 #define AK_SUPPORT_DEVICE_MEMORY 0
-#define AK_WINDOWS_VS_VERSION "vc150"
+#define AK_WINDOWS_VS_VERSION "vc160"
 #define AK_CONFIGURATION "Profile"
 #define AKAUDIO_API 
 #define HTTP_PACKAGE 1
