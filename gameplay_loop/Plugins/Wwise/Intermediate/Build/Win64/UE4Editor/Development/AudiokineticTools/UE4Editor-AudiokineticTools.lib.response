@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AudiokineticTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Intermediate\Build\Win64\gameplay_loopEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.obj"
+"C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\Module.AudiokineticTools.gen.cpp.obj"
+"C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\Default.rc2.res"
+/OUT:"C:\Users\The Dark Tower\Documents\Abertay\Unknown-Studios\gameplay_loop\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\UE4Editor-AudiokineticTools.lib"
+/INCLUDE:IMPLEMENT_MODULE_AudiokineticTools

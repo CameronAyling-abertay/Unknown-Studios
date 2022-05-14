@@ -2,6 +2,6 @@
 	"BuildId": "14830424",
 	"Modules": 
 	{
-		"gameplay_loop": "UE4Editor-gameplay_loop-3034.dll"
+		"gameplay_loop": "UE4Editor-gameplay_loop.dll"
 	}
 }
